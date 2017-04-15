@@ -1,0 +1,29 @@
+﻿## **Vítejte na stránkách KniHry**    
+
+Naším cílem je pomocí různých kvízů, hříček, hádanek a procházek po Brně probudit zájem středoškoláků o čtení povinné literatury a usnadnit jim tak závěrečné projití maturitou. Všechny tři ji už máme za sebou, takže si dovedeme živě představit, jak se do toho žákům chce a kolik na to mají času. Známe to, když si průměrný středoškolák přečte aspoň polovinu knih, může to učitel brát jako úspěch. I když to ten student dělá pro sebe. Jenže do toho, co je povinné se málokomu chce dobrovolně. My bychom jim rády usnadnily a kdo ví, třeba tak v nich i probudili lásku o knihy a čtení obecně.    
+
+Projekt funguje na několika provázaných pracovních listech. Které tu budeme postupně zveřejňovat, tak aby bylo dostatek času na jeho vypracování.    
+
+Pokud chcete uspět, jistě vám pomůže, když si projdete několik následujících odkazů a knih:    
+<http://www.databazeknih.cz/ >     
+<http://www.cbdb.cz/ >     
+<http://www.citarny.cz/ >     
+<http://www.iliteratura.cz/ >    
+<https://www.knihovny.cz/>    
+<http://www.pruvodcebrnem.cz/>      
+
+HIRTLOVÁ, Petra. *Kreativní mysl.* Kolín: Nezávislé centrum pro studium politiky, o.s., 2013. Monografie. ISBN 978-80-86879-40-6.     
+ŽÁK, Petr. *Kreativita a její rozvoj.* Brno: Computer Press, 2004. Business books. ISBN 80-251-0457-5.     
+PELÁNEK, Radek. *Hlavolamikon: [sbírka hlavolamů, hádanek, šifer a logických úloh].* Brno: Computer Press, 2014. ISBN 978-80-251-4303-2.     
+PELÁNEK, Radek. *Jak to vyřešit?: logické úlohy a hry.* Praha: Portál, 2011. ISBN 978-80-7367-872-2.     
+PHILLIPS, Charles. *Logické myšlení: 50 cvičení pro rozvoj logického myšlení.* Praha: Grada, 2012. Trénink myšlení. ISBN 978-80-247-4510-7.     
+*Velká kniha hádanek.* Praha: Plot, 2010. ISBN 978-80-7428-037-5.     
+
+Jelikož to ale není jen o knížkách, ale také o hraní, můžete se podívat i na toto   
+
+<https://www.youtube.com/watch?v=5DnjWX2QGcA> aneb, co všechno se dá dělat s knihou. **Upozornění 9 z 10 knihovníků doporučuje knihu použít standardním způsobem.**    
+A hlavně přitom nezapomeňte správně sedět! <https://pbs.twimg.com/media/BdPom4JIIAATDG-.jpg >   
+
+Jelikož je stránka zajíme ještě v plenkách, chápeme, že není úplně na oko nejlepší, nicméně věřte, že zlepšení se blíží. Časem zde bude pozadí příjemné barvy a knižní police, kam si imaginárně můžete odkládat své knižní úspěchy.
+
+
