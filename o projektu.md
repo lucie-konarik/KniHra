@@ -5,12 +5,12 @@ Naším cílem je pomocí různých kvízů, hříček, hádanek a procházek po
 Projekt funguje na několika provázaných pracovních listech. Které tu budeme postupně zveřejňovat, tak aby bylo dostatek času na jeho vypracování.    
 
 Pokud chcete uspět, jistě vám pomůže, když si projdete několik následujících odkazů a knih:    
-<http://www.databazeknih.cz/ >     
-<http://www.cbdb.cz/ >     
-<http://www.citarny.cz/ >     
-<http://www.iliteratura.cz/ >    
-<https://www.knihovny.cz/>    
-<http://www.pruvodcebrnem.cz/>      
+<http://www.databazeknih.cz/>          
+<http://www.cbdb.cz/>          
+<http://www.citarny.cz/>          
+<http://www.iliteratura.cz/>        
+<https://www.knihovny.cz/>         
+<http://www.pruvodcebrnem.cz/>           
 
 HIRTLOVÁ, Petra. *Kreativní mysl.* Kolín: Nezávislé centrum pro studium politiky, o.s., 2013. Monografie. ISBN 978-80-86879-40-6.     
 ŽÁK, Petr. *Kreativita a její rozvoj.* Brno: Computer Press, 2004. Business books. ISBN 80-251-0457-5.     
@@ -22,7 +22,7 @@ PHILLIPS, Charles. *Logické myšlení: 50 cvičení pro rozvoj logického myšl
 Jelikož to ale není jen o knížkách, ale také o hraní, můžete se podívat i na toto   
 
 <https://www.youtube.com/watch?v=5DnjWX2QGcA> aneb, co všechno se dá dělat s knihou. **Upozornění 9 z 10 knihovníků doporučuje knihu použít standardním způsobem.**    
-A hlavně přitom nezapomeňte správně sedět! <https://pbs.twimg.com/media/BdPom4JIIAATDG-.jpg >   
+A hlavně přitom nezapomeňte správně sedět! <https://pbs.twimg.com/media/BdPom4JIIAATDG-.jpg>   
 
 Jelikož je stránka zajíme ještě v plenkách, chápeme, že není úplně na oko nejlepší, nicméně věřte, že zlepšení se blíží. Časem zde bude pozadí příjemné barvy a knižní police, kam si imaginárně můžete odkládat své knižní úspěchy.
 
