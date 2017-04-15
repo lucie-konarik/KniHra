@@ -4,14 +4,20 @@
 - _posts:
   - 2017-03-13-welcome-to-jekyll.md
   - 2017-03-17-another-post.md
+  - o projektu.md
+  - členové týmu.md
   
 - _includes:
   - menu.md
+  - o projektu.md
+  - členové týmu.md
   
 - _layouts:
   - default.html
   - page.html
   - post.html
+  - o projektu.md
+  - členové týmu.md
   
 - _config.yml
 - o projektu.md
