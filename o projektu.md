@@ -1,8 +1,8 @@
 ﻿## **Vítejte na stránkách KniHry**    
 
-Naším cílem je pomocí různých kvízů, hříček, hádanek a procházek po Brně probudit zájem středoškoláků o čtení povinné literatury a usnadnit jim tak závěrečné projití maturitou. Všechny tři ji už máme za sebou, takže si dovedeme živě představit, jak se do toho žákům chce a kolik na to mají času. Známe to, když si průměrný středoškolák přečte aspoň polovinu knih, může to učitel brát jako úspěch. I když to ten student dělá pro sebe. Jenže do toho, co je povinné se málokomu chce dobrovolně. My bychom jim rády usnadnily a kdo ví, třeba tak v nich i probudili lásku o knihy a čtení obecně.    
+Naším cílem je pomocí různých kvízů, hříček, hádanek a procházek po Brně probudit zájem středoškoláků o čtení povinné literatury a usnadnit jim tak závěrečné projití maturitou. Všechny tři ji už máme za sebou, takže si dovedeme živě představit, jak se do toho žákům chce a kolik na to mají času. Známe to, když si průměrný středoškolák přečte aspoň polovinu knih, může to učitel brát jako úspěch. I když to ten student dělá pro sebe. Jenže do toho, co je povinné se málokomu chce dobrovolně. My bychom jim rády usnadnily a kdo ví, třeba tak v nich i probudili lásku ke knihám a čtení obecně.    
 
-Projekt funguje na několika provázaných pracovních listech. Které tu budeme postupně zveřejňovat, tak aby bylo dostatek času na jeho vypracování.    
+Projekt funguje na několika provázaných pracovních listech, které tu budeme postupně zveřejňovat, tak aby bylo dostatek času na jeho vypracování.    
 
 Pokud chcete uspět, jistě vám pomůže, když si projdete několik následujících odkazů a knih:    
 <http://www.databazeknih.cz/> - asi nejznámější a nejpoužívanější databáze knih, kde je možné najít snad skoro všechno         
