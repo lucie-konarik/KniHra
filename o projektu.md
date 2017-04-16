@@ -5,12 +5,14 @@ Naším cílem je pomocí různých kvízů, hříček, hádanek a procházek po
 Projekt funguje na několika provázaných pracovních listech. Které tu budeme postupně zveřejňovat, tak aby bylo dostatek času na jeho vypracování.    
 
 Pokud chcete uspět, jistě vám pomůže, když si projdete několik následujících odkazů a knih:    
-<http://www.databazeknih.cz/>          
-<http://www.cbdb.cz/>          
-<http://www.citarny.cz/>          
-<http://www.iliteratura.cz/>        
-<https://www.knihovny.cz/>         
-<http://www.pruvodcebrnem.cz/>           
+<http://www.databazeknih.cz/> - asi nejznámější a nejpoužívanější databáze knih, kde je možné najít snad skoro všechno         
+<http://www.cbdb.cz/> - pokud preferujete jinou, zde je ta druhá, asi nejznámější         
+<http://www.citarny.cz/> - kromě jiného se zde dá najít i mnoho z aktuálního dění, ocenění, nebo o autorech, to se bude hodit         
+<http://www.iliteratura.cz/> - články, knihy, recenze nebo o obálka, to vše se může hodit        
+<https://www.knihovny.cz/> - portál snažící se sjednotit všechny knihovny, může se hodit, když si budete potřeovat danou knihu vypůjčit a máte přístup k více než jedné knihovně        
+<http://www.pruvodcebrnem.cz/> - jelikož se tam budou objevovat i nějaké odkazy na Brno, je potřeba vědět, kam se podívat.      
+<http://encyklopedie.brna.cz/home-mmb/> - další encyklopedie na Brno, čím lépe ho budete znát, tím lépe pro vás
+
 
 HIRTLOVÁ, Petra. *Kreativní mysl.* Kolín: Nezávislé centrum pro studium politiky, o.s., 2013. Monografie. ISBN 978-80-86879-40-6.     
 ŽÁK, Petr. *Kreativita a její rozvoj.* Brno: Computer Press, 2004. Business books. ISBN 80-251-0457-5.     
