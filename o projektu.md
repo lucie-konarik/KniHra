@@ -27,7 +27,7 @@ Pokud chcete uspět, jistě vám pomůže, když si projdete několik následuj�
 
 
 
-A z newebových zdrojů vybíráme napríklad tyto, můžou Vám pomoci rozvynout kreativitu či tvůrčí myšlení, což se pro KniHru určitě hodí!
+A z newebových zdrojů vybíráme například tyto, můžou Vám pomoci rozvinout kreativitu či tvůrčí myšlení, což se pro KniHru určitě hodí!
 
 HIRTLOVÁ, Petra. *Kreativní mysl.* Kolín: Nezávislé centrum pro studium politiky, o.s., 2013. Monografie. ISBN 978-80-86879-40-6.   
 
