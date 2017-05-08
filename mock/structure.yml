@@ -6,11 +6,13 @@
   - 2017-03-17-another-post.md
   - 2017-04-15-o projektu
   - 2017-04-15-členové týmu
+  - 2017-05-08-seznam povinné četby
   
 - _includes:
   - menu.md
   - o projektu.md
   - členové týmu.md
+  - seznam povinné četby.mdown
   
 - _layouts:
   - default.html
@@ -21,4 +23,5 @@
 - _config.yml
 - o projektu.md
 - členové týmu.md
+- seznam povinné četby.mdown
 - index.md
