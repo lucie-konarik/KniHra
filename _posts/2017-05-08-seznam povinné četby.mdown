@@ -1,7 +1,3 @@
----
-layout: page
-title: Seznam povinné četby
----
 #Seznam povinné četby 2017#
 
 Jelikož se tento projekt zabývá podporou čtení povinné četby k maturitě, tak zde předkládáme seznam maturitní četby z Klasického a španělské gymnázia v Brně-Bystrci platný pro rok 2016/2017. Seznamy se mohou škola od školy lišit. Maturitní výběr musí vždy zahrnovat minimálně 2 díla beletristická, 2 díla poetická a 2 díla dramatická.
