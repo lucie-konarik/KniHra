@@ -12,7 +12,6 @@
   - menu.md
   - o projektu.md
   - členové týmu.md
-  - seznam povinné četby.mdown
   
 - _layouts:
   - default.html
@@ -23,5 +22,4 @@
 - _config.yml
 - o projektu.md
 - členové týmu.md
-- seznam povinné četby.mdown
 - index.md
