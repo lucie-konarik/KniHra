@@ -1,6 +1,6 @@
 ---
 layout: page
-title: O projektu
+title: Seznam povinné četby
 ---
 #Seznam povinné četby 2017#
 
